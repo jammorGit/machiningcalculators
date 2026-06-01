@@ -544,6 +544,22 @@
     "ApHigh": 5.5
   },
   {
+    "ItemNumber": "1129962-32",
+    "ItemDescription": "NNMU200708M-8540",
+    "Sort": "NN20",
+    "Grade": "8540",
+    "ChipBreaker": "M",
+    "CornerRadius": 0.8,
+    "ImageInsert": "",
+    "ImageApplication": "app_pm.png",
+    "HexLow": 0.18,
+    "HexStart": 0.27,
+    "HexHigh": 0.25,
+    "ApLow": 1.2,
+    "ApStart": 3.8,
+    "ApHigh": 5.5
+  },
+  {
     "ItemNumber": "1129961-33",
     "ItemDescription": "NNMU200708MM-8535",
     "Sort": "NN20",
