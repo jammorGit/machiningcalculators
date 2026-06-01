@@ -440,12 +440,12 @@
     "CornerRadius": 9,
     "ImageInsert": "",
     "ImageApplication": "app_h.png",
-    "HexLow": ,
-    "HexStart": ,
-    "HexHigh": ,
-    "ApLow": ,
-    "ApStart": ,
-    "ApHigh": 
+    "HexLow": 0,
+    "HexStart": 0,
+    "HexHigh": 0,
+    "ApLow": 0,
+    "ApStart": 0,
+    "ApHigh":0 
   },
  {
     "ItemNumber": "1800088-30",
@@ -456,12 +456,12 @@
     "CornerRadius": 9,
     "ImageInsert": "",
     "ImageApplication": "app_ph.png",
-    "HexLow": ,
-    "HexStart": ,
-    "HexHigh": ,
-    "ApLow": ,
-    "ApStart": ,
-    "ApHigh": 
+    "HexLow": 0,
+    "HexStart": 0,
+    "HexHigh": 0,
+    "ApLow": 0,
+    "ApStart": 0,
+    "ApHigh": 0
   },
  {
     "ItemNumber": "1800088-31",
@@ -472,12 +472,12 @@
     "CornerRadius": 9,
     "ImageInsert": "",
     "ImageApplication": "app_pm.png",
-    "HexLow": ,
-    "HexStart": ,
-    "HexHigh": ,
-    "ApLow": ,
-    "ApStart": ,
-    "ApHigh": 
+    "HexLow": 0,
+    "HexStart": 0,
+    "HexHigh": 0,
+    "ApLow": 0,
+    "ApStart": 0,
+    "ApHigh": 0
   },
   {
     "ItemNumber": "1129966-25",
