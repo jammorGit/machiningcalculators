@@ -440,12 +440,12 @@
     "CornerRadius": 9,
     "ImageInsert": "",
     "ImageApplication": "app_h.png",
-    "HexLow": 0,
-    "HexStart": 0,
-    "HexHigh": 0,
-    "ApLow": 0,
-    "ApStart": 0,
-    "ApHigh": 0
+    "HexLow": ,
+    "HexStart": ,
+    "HexHigh": ,
+    "ApLow": ,
+    "ApStart": ,
+    "ApHigh": 
   },
   {
     "ItemNumber": "1129966-25",
